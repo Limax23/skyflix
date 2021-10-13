@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTszBVVXXEVJM8AbcG8XFC_bUTBMM2RW9AioA&usqp=CAU"
 group-title"desenhos",
 CARTOON NETWORK
-http://45.161.252.33/CARTOON_NETWORK/tracks-v3a1/mono.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"
+http://45.161.252.33/CARTOON_NETWORK/tracks-v3a1/mono.m3u8#EXTINF:-1 
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPsny7T050g2ri3q6Vyv2cVxAyJZXDfBv2I3UoTwgdnUdkW7G7QpbZx0I&s=10" 
+#tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"
 group-title"desenhos",
 NICKELODEON
 https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
