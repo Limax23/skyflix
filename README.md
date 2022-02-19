@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTszBVVXXEVJM8AbcG8XFC_bUTBMM2RW9AioA&usqp=CAU"
 group-title"desenhos",
 CARTOON NETWORK
-http://45.161.252.33/CARTOON_NETWORK/tracks-v3a1/mono.m3u8
+http://45.161.252.33/CARTOON_NETWORK/tracks-v3a1/mono.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPsny7T050g2ri3q6Vyv2cVxAyJZXDfBv2I3UoTwgdnUdkW7G7QpbZx0I&s=10"
 group-title"desenhos",
